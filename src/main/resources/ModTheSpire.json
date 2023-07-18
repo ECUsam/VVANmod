@@ -1,0 +1,13 @@
+{
+  "modid": "KNNmod",
+  "name": "KNNmod（Cookie）",
+  "author_list": [
+    "ECUsam"
+  ],
+  "description": "Adds KNNmod（Cookie） from Cookie Project as a new playable character.",
+  "dependencies": [
+    "basemod"
+  ],
+  "version": "1.0.0",
+  "sts_version": "4-1-2023"
+}
